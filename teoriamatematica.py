@@ -10,3 +10,7 @@ a = 10
  print(f"Divisão Inteira: {a} // {b} = {a // b}")
  print(f"Módulo(Resto): {a} % {b} = {a % b}")
  print(f"Exponenciação: {a} ** {b} = {a ** b}")
+
+
+
+https://github.com/RRDRTTMORAES/Aula1-prof-Marcos
